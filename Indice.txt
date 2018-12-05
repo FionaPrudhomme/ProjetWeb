@@ -1,0 +1,12 @@
+		Solution des indices:
+
+
+1.clicker sur le personnage
+2.  Aller a Neuilly-Plaisance et Recuperer la cle  
+3. Aller a l'Aeoport Charles de Gaulle il y a un digicode
+5. Aller a Motmartre, ouvrir le coffre
+6. La solution de l’operation en binnaire est 2018
+7. Entrer le code dans le digicode
+8. Aller a Montpellier y a les coordonnees du prochain indice
+9. Les coordonees correspondent a Meknes (Ville au Maroc)
+10. aller a Meknes et clicker sur Vincent
